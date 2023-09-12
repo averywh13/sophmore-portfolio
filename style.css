@@ -1,0 +1,45 @@
+
+body{
+background-color: #000000;
+background-size: 100%;
+background-repeat: no-repeat;
+}
+h1{
+  font-family: 'Castoro Titling', cursive;
+  color: white;
+  font-size: 500%; 
+}
+.sophmore-site{
+  width: 700px;
+  margin-top: 50%;
+  
+}
+.sophmore-title{
+  font-family: 'Castoro Titling', cursive;
+  color: white;
+  font-size: 40px;
+  margin-left: 750px;
+  margin-top: -225px;
+  display: block;
+}
+
+#nametope {
+  margin-top: -450px;
+  font-size: 6rem;
+}
+#nametop {
+  color: white;
+  margin: 0;
+  font-size: 2rem;
+}
+
+.div{
+  margin-top:600px;
+}
+.navbar{
+  font-family: 'Castoro Titling', cursive;
+}
+.display{
+  margin-left: 200px;
+}
+

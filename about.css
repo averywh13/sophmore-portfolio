@@ -1,0 +1,59 @@
+body{
+background-color: #000000;
+background-size: 100%;
+background-repeat: no-repeat;
+}
+
+#nametope {
+  color: white;
+ font-family: 'Castoro Titling', cursive;
+  margin-top: -450px;
+  font-size: 6rem;
+}
+.div{
+  margin-top:600px;
+}
+.navbar{
+  font-family: 'Castoro Titling', cursive;
+}
+.display{
+  margin-top: 500px;
+  margin-left: 525px;
+}
+.title{
+  margin-left: 500px;
+  margin-top: -500px;
+  color: white;
+  font-family: 'Castoro Titling', cursive;
+  font-size: 6rem;
+}
+.bio{
+  text-align: center;
+  color: white;
+  font-family: 'Castoro Titling', cursive;
+  font-size: 3rem;
+}
+.jersey{
+  box-shadow: 10px 10px 20px #c0c0c0;
+  border: 5px solid white;
+  margin-top: 700px;
+  margin-left: 50px;
+  width: 250px;
+  height:400px;
+}
+.juanita{
+  box-shadow: 10px 10px 20px #c0c0c0;
+  border: 5px solid white;
+  margin-top: -600px;
+  margin-left: 540px;
+  width: 250px;
+  height:400px;
+}
+.jump{
+  box-shadow: 10px 10px 20px #c0c0c0;
+  border: 5px solid white;
+  margin-top: 700px;
+  margin-left: 700px;
+  width: 250px;
+  height:400px;
+}

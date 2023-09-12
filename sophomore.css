@@ -1,0 +1,128 @@
+body {
+background-image: url('sophmoregif.gif');
+background-color: black;
+background-size: 100%;
+background-repeat: no-repeat;
+}
+.sophmore-title{
+  font-family: 'Castoro Titling', cursive;
+  color: white;
+}
+#nametope {
+  margin-top: 15rem;
+  font-size: 6.25rem;
+}
+h1{
+  font-family: 'Castoro Titling', cursive;
+  color: white;
+  font-size: 500%; 
+}
+.para {
+  margin-top: 100px;
+}
+.navbar{
+  font-family: 'Castoro Titling', cursive;
+}
+.first{
+  margin-left: -30%;
+  position: absolute;
+  z-index: -4px;
+  margin-top: 1600px;
+  width: 40%;
+}
+.firstwebsite{
+  font-size: 75px;
+  position: absolute;
+  margin-top: 1300px;
+  margin-left: 830px;
+}
+.planet{
+  margin-top: 1780px;
+  position: absolute;
+  z-index: -3px;
+  margin-right: -30%;
+  width: 40%;
+  border: 5px solid white;
+}
+.solarsystem{
+  font-size: 75px;
+  position: absolute;
+  margin-top: 1525px;
+  margin-left: 200px;
+}
+.camping{
+  margin-left: -30%;
+  position: absolute;
+  z-index: -2px;
+  margin-top: 1980px;
+  width: 40%;
+  border: 5px solid white;
+}
+.campinglist{
+  font-size: 75px;
+  position: absolute;
+  margin-top: 1700px;
+  margin-left: 830px;
+}
+.billboard{
+  margin-top: 2180px;
+  position: absolute;
+  z-index: -1px;
+  margin-right: -30%;
+  width: 40%;
+  border: 5px solid white;
+}
+.billboardsongs{
+  font-size: 75px;
+  position: absolute;
+  margin-top: 1850px;
+  margin-left: 155px;
+}
+.fitness{
+  position: absolute;
+  z-index:-4px;
+  margin-left: -30%;
+  margin-top: 2380px;
+  width: 40%;
+  border: 5px solid white;
+}
+.tribute{
+  position: absolute;
+  z-index: -4px;
+  margin-right: -30%;
+  margin-top: 2580px;
+  width: 40%;
+  border: 5px solid white;
+}
+.dukes{
+  position: absolute;
+  z-index: -4px;
+  margin-left: -30%;
+  margin-top: 2820px;
+  width: 40%;
+  border: 5px solid white;
+}
+.pie{
+  position: absolute;
+  z-index: -4px;
+  margin-right: -30%;
+  margin-top: 3020px;
+  width: 40%;
+  border: 5px solid black;
+}
+.elements{
+  position: absolute;
+  z-index: -4px;
+  margin-left: -30%;
+  margin-top: 3200px;
+  width: 40%;
+  border: 5px solid white;
+}
+.hermes{
+ position: absolute;
+  z-index: -4px;
+  margin-right: -30%;
+  margin-top: 3390px;
+  width: 40%;
+  border: 5px solid white;
+}
